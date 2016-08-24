@@ -1,6 +1,6 @@
 _Central Connecticut State University_
 # CS 417 Design Patterns
-##Fall 2016
+## Fall 2016
 
 **Instructor:** Dr. Chad Williams, Professor of Computer Science
 
@@ -99,17 +99,17 @@ Finally, I know you are very bright otherwise you wouldn't be here, and I value 
 
 Each assignment is due at the beginning of class of the day listed unless otherwise instructed. You should begin each assignment as it is handed out. By starting assignments early, you have the opportunity to ask me to clarify those things you do not understand. It is essential that you commit yourself to regular studying to keep pace with the course and deadlines. If you are having difficulty with any aspect of this class, please talk to me in a timely manner. I will do my best to help you. More options will be available to us if you approach me as soon as possible. Unless arrangements have been made ahead of time ***late assignments will be penalized 5% if turned in late the same day, otherwise 10% per day (7am the next day is the same as 11:59pm that evening)***. ***No submissions will be accepted after the final.***
 
-**Final project:** There will be a large final project that will require integrating the knowledge you have gained throughout the semester. For the final project you will have two options: a creature simulator/game; or a “Geeks vs. Zombies” game. There is a basic structure I want to see for a couple of key things related to using good software development techniques, but I am leaving the details up to you. While I will specify a couple of required design patterns be used, other aspects such as good design to support other principles we have talked about like encapsulation will also factor into the grade. **A critical part of the project is good development practices:** proper use of source control and automated testing.  At the end of the semester your group will present your project to the class.
+**Final project:** There will be a large final project that will require integrating the knowledge you have gained throughout the semester. For the final project you will be building a project of your choosing using a Raspberry Pi and Grove sensors that demonstrates the concepts covered in class. There is a basic structure I want to see for a couple of key things related to using good software development techniques, but I am leaving the details up to you. While I will specify a couple of required design patterns be used, other aspects such as good design to support other principles we have talked about like encapsulation will also factor into the grade. **A critical part of the project is good development practices:** proper use of source control and automated testing.  At the end of the semester your group will present your project to the class.
 
-There will be a number of interim checkpoints during the semester to ensure you are on track. The dates of these will be announced later during the semester.  The final deliverables are due at the beginning of class Wednesday, December 2nd.
+There will be a number of interim checkpoints during the semester to ensure you are on track. The dates of these will be announced later during the semester.  The final deliverables are due at the beginning of class Monday, December 5th.
 
-**Development practice:** The vast majority of projects you encounter outside of the classroom require working in teams and an evolving code base. Within this class you will learn how to use the Git source control system for collaboration and maintaining your code evolution. Given the importance of understanding the additional complexity when there are multiple people working on the same code base, for the majority of assignments you will be **required** to work in teams. In addition to using Git to submit your final deliverables, each student will be expected to use source control properly throughout the development process. **Unlike many classes where you are evaluated just on the final deliverable, expect to be evaluated on whether you followed good development practices along the way as well.**
+**Development practice:** The vast majority of projects you encounter outside of the classroom require working in teams and an evolving code base. Within this class you will learn how to use the Git source control system for collaboration and maintaining your code evolution. Given the importance of understanding the additional complexity when there are multiple people working on the same code base, for the majority of assignments you will be **_required_ to work in teams**. In addition to using Git to submit your final deliverables, each student will be expected to use source control properly throughout the development process. **Unlike many classes where you are evaluated just on the final deliverable, expect to be evaluated on whether you followed good development practices along the way as well.**
 
-**Exams:** There will be a midterm and a final exam in addition to a final project. These will focus on whether you have understood the material and learned from your mistakes. The midterm will be Wednesday, October 19th and the final exam will be at the university scheduled time Wednesday, December 14th **4:30-6:30pm (make sure to note the earlier start time)**. If a student misses the midterm they will receive a 0 unless they have specifically talked with me ahead of time and submit a written request.
+**Exams:** There will be a midterm and a final exam in addition to a final project. These will focus on whether you have understood the material and learned from your mistakes. The midterm will be **Wednesday, October 19th*** and the final exam will be at the university scheduled time **Wednesday, December 14th 4:30-6:30pm** (***make sure to note the earlier start time***). If a student misses the midterm they will receive a 0 unless they have specifically talked with me ahead of time and submit a written request.
 
 **Attendance:** I expect students to attend class sessions regularly. ***For each absence (unless university excused) over 3 your overall final grade will be reduced by 1/4th of a letter grade. Skipping classes can seriously affect your final grade!*** If you are going to miss class please email me before class. Each student is responsible for making-up any missed study or work on their own. Limited assistance will be offered to those with plausible reasons for absences; unexcused absences result in the student being totally responsible for the make-up process. You are responsible for all announcements and material covered in the event that you do miss class, and should get that information from one of your classmates. In the event of a weather emergency that requires curtailment or cancellation of classes, listen to WTIC (1080 AM) or call (860) 832-3333.
 
-**Academic Honesty:** Students are expected to practice the highest standards of ethics, honesty and integrity in all of their academic work. Any form of academic dishonesty (e.g., plagiarism, cheating and misrepresentation) may result in disciplinary action. Possible disciplinary actions may include failure for part of or all of a course as well as suspension from the University. I absolutely require that you fulfill your academic obligations in a fair and honest manner. This includes turning in work that is uniquely yours, unless I explicitly require you to work on a project in a group. I strongly suggest that if you work with others, you only work together in the idea generation phase. When it comes to writing your work, you must do so independently. It is in your best interest to never look at any assignments written by another student and to never let another student see any assignments you have written. If you do turn in work that I suspect is the result of cheating, it will be dealt with **harshly**. You may find the full Academic Misconduct Policy online at:[ ](http://web.ccsu.edu/academicintegrity/UndergradAcadMisconductPolicy.htm)[*http://web.ccsu.edu/academicintegrity/UndergradAcadMisconductPolicy.htm*](http://web.ccsu.edu/academicintegrity/UndergradAcadMisconductPolicy.htm)
+**Academic Honesty:** Students are expected to practice the highest standards of ethics, honesty and integrity in all of their academic work. Any form of academic dishonesty (e.g., plagiarism, cheating and misrepresentation) may result in disciplinary action. Possible disciplinary actions may include failure for part of or all of a course as well as suspension from the University. I absolutely require that you fulfill your academic obligations in a fair and honest manner. This includes turning in work that is uniquely yours, unless I explicitly require you to work on a project in a group. I strongly suggest that if you work with others, you only work together in the idea generation phase. When it comes to writing your work, you must do so independently. It is in your best interest to never look at any assignments written by another student and to never let another student see any assignments you have written. If you do turn in work that I suspect is the result of cheating, it will be dealt with **harshly**. You may find the full Academic Misconduct Policy online at:[ ](http://www.ccsu.edu/academicintegrity/policy.html)[*http://www.ccsu.edu/academicintegrity/policy.html*](http://www.ccsu.edu/academicintegrity/policy.html)
 
  Please read it carefully.
 
@@ -117,7 +117,7 @@ There will be a number of interim checkpoints during the semester to ensure you 
 
 **Statement on Discrimination and Harassment**: Central Connecticut State University strives to maintain our campus as a place of work and study for faculty, staff, and students that is free of all forms of prohibited discrimination and harassment based upon age; ancestry, color; gender identity and expression; intellectual disability; learning disability; mental disorder; physical disability; marital status, national origin; race; religious creed; sex, (including pregnancy, transgender status, sexual harassment and sexual assault); sexual orientation; or any other status protected by federal or state laws. Any student who has concerns about should contact the Office of Diversity and Equity (ODE) at 860-832-1652, Student Affairs at 860-832-1601, or his/her faculty member. The ODE is located on the main floor of Davidson Hall, room 102.
 
-**Sexual Misconduct, Intimate Partner Violence and Stalking** Central Connecticut State University (CCSU) will not tolerate sexual misconduct against students, staff, faculty, or visitors in any form, including but not limited to: sexual assault, sexual exploitation, sexual harassment or stalking, as defined in CCSU policies. For additional information, please consult the CCSU policies at http://www.ccsu.edu/page.cfm?p=1333. All faculty members and staff have a duty to report incidents of sexual harassment including sexual violence to Rosa Rodríguez, Title IX Officer, Office of Diversity and Equity, Davidson Hall, 102. To file a report contact: Diversity and Equity (860-832-1652); Student Affairs (860-832-1601); Student Conduct (860-832-1667) or the University Police (860-832-2375). For support and advocacy contact: Student Wellness Services at 860-832-1945 (confidential), the Women’s Center at 860-832-1655, the local YWCA’s Sexual Assault Crisis Services Hotline at 860-223-1787 (confidential) and Prudence Crandall Center for Domestic Violence (confidential) at 888-774-2900 (24-hour hotline).
+**Sexual Misconduct, Intimate Partner Violence and Stalking** Central Connecticut State University (CCSU) will not tolerate sexual misconduct against students, staff, faculty, or visitors in any form, including but not limited to: sexual assault, sexual exploitation, sexual harassment or stalking, as defined in CCSU policies. For additional information, please consult the CCSU policies at http://www.ccsu.edu/diversity/policies/misconductProcedures.html. All faculty members and staff have a duty to report incidents of sexual harassment including sexual violence to Rosa Rodríguez, Title IX Officer, Office of Diversity and Equity, Davidson Hall, 102. To file a report contact: Diversity and Equity (860-832-1652); Student Affairs (860-832-1601); Student Conduct (860-832-1667) or the University Police (860-832-2375). For support and advocacy contact: Student Wellness Services at 860-832-1945 (confidential), the Women’s Center at 860-832-1655, the local YWCA’s Sexual Assault Crisis Services Hotline at 860-223-1787 (confidential) and Prudence Crandall Center for Domestic Violence (confidential) at 888-774-2900 (24-hour hotline).
 
 **How to succeed in CS 417**:
 
@@ -137,9 +137,9 @@ There will be a number of interim checkpoints during the semester to ensure you 
 
 -   **Keep all returned work to help you to study for the exams**
 
-###Tentative class outline and assignments
+### Tentative class outline and assignments
 
-***Please note assignment dates are only to give you an idea of what assignments will cover and approximate timeframe, actual dates will be set as the semester progresses***
+***Please note assignment dates are only to give you an idea of what assignments will cover and approximate time frame, actual dates will be set as the semester progresses***
 
 **Week 1 week of August 29**
 
@@ -151,9 +151,7 @@ There will be a number of interim checkpoints during the semester to ensure you 
 
 **Week 2 week of September 5**
 
--   **Labor day - No class Monday September 7th**
-
-<!-- -->
+-   *Labor day - No class Monday September 7th*
 
 -   UML modeling cont.
 
@@ -171,6 +169,8 @@ There will be a number of interim checkpoints during the semester to ensure you 
 
 -   Automated testing
 
+-   ***Hand out of Raspberry Pi and Grove hardware***
+
 -   Assignment 1 - Git and UML basics
 
 **Week 5 week of September 26**
@@ -179,7 +179,7 @@ There will be a number of interim checkpoints during the semester to ensure you 
 
 -   Chain of responsibility
 
--   Automated testing
+-   Adapter
 
 **Week 6 week of October 3**
 
@@ -250,11 +250,13 @@ There will be a number of interim checkpoints during the semester to ensure you 
 
 **Week 14 week of November 28**
 
--   Final projects due 12/2
+
 
 -   Final project presentations
 
 **Week 15 week of December 5**
+
+-   Final projects due 12/5
 
 -   Final project presentations
 
