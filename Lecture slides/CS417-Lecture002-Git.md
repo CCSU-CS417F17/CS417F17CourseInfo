@@ -1,4 +1,4 @@
-# CS 407 Design patterns
+# CS 417 Design patterns
 # Version control and Git
 
 ## Why version control
@@ -174,7 +174,7 @@ GUI git tools
 
     This is by far the best in my opinion as 90% of what you typically do can be done through an intuitive GUI
 
-## Git workflows 
+## Git workflows
 
 exceptional tutorial by Atlassian [https://www.atlassian.com/git/tutorials/comparing-workflows/](https://www.atlassian.com/git/tutorials/comparing-workflows/) material below is extracted from there
 
