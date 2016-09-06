@@ -126,7 +126,7 @@ Stage files, can stage some or all
 
 To remove a file from staging (but keep file)
 
-> git rm readme.txt
+> git reset readme.txt
 
 Commit staged changes
 
