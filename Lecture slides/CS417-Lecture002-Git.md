@@ -290,7 +290,7 @@ After some discussion
 
 >git tag -a 0.1 -m "Initial public release" master
 
->git push –tags
+>git push --follow-tags
 
 #### Bug flow
 
