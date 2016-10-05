@@ -10,11 +10,7 @@
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
-/Code demos/CS417ExceptionDemo/nbproject/private/
-/Code demos/CS417ExceptionDemo/dist/
-Code demos/CS417ExceptionDemo/nbproject/
-Code demos/CS417ExceptionDemo/build/
-Code demos/CS417ExceptionDemo/build.xml
+
 *.zargo~
 /Code demos/CS417VisitorPattern/build/
 *.gitignore~
@@ -25,3 +21,4 @@ Code demos/CS417ExceptionDemo/build.xml
 /Code demos/CS417DemosIterGenericsCompositeDecorator/build/
 /Code demos/CS417VisitorPattern/build/
 /Code demos/CS417VisitorPattern/dist/
+/Code demos/CS417ExceptionDemo/build/
