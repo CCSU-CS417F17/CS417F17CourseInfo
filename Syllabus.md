@@ -179,8 +179,6 @@ There will be a number of interim checkpoints during the semester to ensure you 
 
 -   Chain of responsibility
 
--   Adapter
-
 **Week 6 week of October 3**
 
 -   Generic refactoring
@@ -214,6 +212,8 @@ There will be a number of interim checkpoints during the semester to ensure you 
 -   Generics
 
 **Week 10 week of October 31**
+
+-   Adapter
 
 -   Composition
 
