@@ -171,7 +171,7 @@ There will be a number of interim checkpoints during the semester to ensure you 
 
 -   ***Hand out of Raspberry Pi and Grove hardware***
 
--   Assignment 1 - Git and UML basics
+-   *Assignment 1 - Git and UML basics*
 
 **Week 5 week of September 26**
 
@@ -193,7 +193,7 @@ There will be a number of interim checkpoints during the semester to ensure you 
 
 -   Factory
 
--   Assignment 2 - UML, implementation, testing
+-   *Assignment 2 - UML, implementation, testing*
 
 **Week 8 week of October 17**
 
@@ -221,7 +221,7 @@ There will be a number of interim checkpoints during the semester to ensure you 
 
 -   Enumerations
 
--   Final project assignment 1
+-   *Final project sprint 1*
 
 **Week 11 week of November 7**
 
@@ -231,8 +231,6 @@ There will be a number of interim checkpoints during the semester to ensure you 
 
 -   Builder
 
--   Final project assignment 2
-
 **Week 12 week of November 14**
 
 -   Visitor
@@ -241,7 +239,7 @@ There will be a number of interim checkpoints during the semester to ensure you 
 
 -   State
 
--   Final project assignment 3
+-   *Final project sprint 2*
 
 **Week 13 week of November 21**
 
@@ -250,13 +248,11 @@ There will be a number of interim checkpoints during the semester to ensure you 
 
 **Week 14 week of November 28**
 
-
-
--   Final project presentations
+-   *Final project sprint 3*
 
 **Week 15 week of December 5**
 
--   Final projects due 12/5
+-   ***Final projects due 12/5***
 
 -   Final project presentations
 
