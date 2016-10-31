@@ -36,8 +36,8 @@ public class WidgetCollection<T extends Widget> {
     }
 
     /**
-     * Iterator based approach, reference outer class so
-     * can't be static.
+     * Iterator based approach, no reference to outer class so
+     * can be static.
      */
     private static class WidgetCollectionSimpleIterator<S> implements Iterator{
         // Note T is same as outer class
