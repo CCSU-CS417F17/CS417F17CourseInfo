@@ -23,4 +23,4 @@ hs_err_pid*
 /Code demos/CS417VisitorPattern/dist/
 /Code demos/CS417ExceptionDemo/build/
 /Code demos/CS417ExceptionDemo/nbproject/private/
-
+***/private/
