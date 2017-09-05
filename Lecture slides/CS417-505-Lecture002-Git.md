@@ -1,4 +1,4 @@
-# CS 417 Design patterns
+# CS 417/505 Design patterns
 # Version control and Git
 
 ## Why version control
