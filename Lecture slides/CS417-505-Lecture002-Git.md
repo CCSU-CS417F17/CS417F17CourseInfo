@@ -97,7 +97,27 @@ Common scenarios
 
 -   Refer to [Install & config guide](https://gist.github.com/dmangiarelli/1a0ae107aaa5c478c51e)
 
-#### Common config parameters you should set (you can also set these directly in .gitconfig file)
+Common config parameters you should set (you can also set these directly in .gitconfig file)
+
+> git config --global user.name "John Doe"
+
+> git config --global user.email johndoe@example.com
+
+Also you should set your default editor.  It is common to use a command line editor so you never have to leave the command line, but it is by no means required.
+
+You could choose any editor you want, but here are some common choices:
+
+> git config --global core.editor emacs
+
+Or
+
+> git config --global core.editor vim
+
+Or
+
+> git config core.editor "'C:/Program Files (x86)/Notepad++/notepad++.exe' -multiInst -notabbar -nosession -noPlugin"
+
+
 
 ### Basic operations
 
