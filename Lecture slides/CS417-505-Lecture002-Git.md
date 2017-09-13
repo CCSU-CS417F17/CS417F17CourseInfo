@@ -97,6 +97,8 @@ Common scenarios
 
 -   Refer to [Install & config guide](https://gist.github.com/dmangiarelli/1a0ae107aaa5c478c51e)
 
+#### Common config parameters you should set (you can also set these directly in .gitconfig file)
+
 ### Basic operations
 
 Create repo
