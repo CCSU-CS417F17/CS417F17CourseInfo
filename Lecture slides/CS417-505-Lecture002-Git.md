@@ -25,7 +25,7 @@ aka Revision or source control
 
 -   Directed commit graph
 
-### Terminology (See definitions [here](https://github.com/CCSU-CS407F15/CourseInfo/blob/master/GitTerminology.md) )
+### Terminology (See definitions [here](https://github.com/CCSU-CS417F17/CS417F17CourseInfo/blob/master/GitTerminology.md) )
 
 -   Head
 
