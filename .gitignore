@@ -26,4 +26,5 @@ hs_err_pid*
 ***/private/
 /Code demos/**/dist/
 /Code demos/**/bin/
+/Code demos/**/build/
 /Code demos/**/private/
