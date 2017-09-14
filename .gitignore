@@ -24,3 +24,5 @@ hs_err_pid*
 /Code demos/CS417ExceptionDemo/build/
 /Code demos/CS417ExceptionDemo/nbproject/private/
 ***/private/
+/Code demos/**/dist/
+/Code demos/**/bin/
