@@ -1,7 +1,5 @@
 package edu.ccsu.cs417.visitor.vehicle;
 
-import java.util.Set;
-
 /**
  * Specifies how to construct MotorVehicles
  */

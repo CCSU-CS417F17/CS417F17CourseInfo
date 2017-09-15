@@ -39,5 +39,8 @@ public class Main {
     CarFactory carFactory1 = PrototypeCarFactory.getInstance();
     Car car1 = carFactory1.makeCar("Pinto");
     Car car2 = carFactory1.makeCar("Camary Hybrid");
+    
+    System.out.println(car1.toString());
+    System.out.println(car2.toString());
   }
 }

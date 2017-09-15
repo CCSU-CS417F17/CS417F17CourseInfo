@@ -39,7 +39,7 @@ public class WidgetCollection<T extends Widget> {
      * Iterator based approach, no reference to outer class so
      * can be static.
      */
-    private static class WidgetCollectionSimpleIterator<S> implements Iterator{
+    private static class WidgetCollectionSimpleIterator<S> implements Iterator<S>{
         // Note T is same as outer class
         private Iterator<S> firstIter;
         private Iterator<S> secondIter;
@@ -82,7 +82,7 @@ public class WidgetCollection<T extends Widget> {
      * not change during iteration. Note that this is kind of a funky
      * implementation, to show why you wouldn't have a static class
      */
-    private class WidgetCollectionDirectIterator implements Iterator {
+    private class WidgetCollectionDirectIterator implements Iterator<T> {
 
         private boolean onFirst = true;
         int curIndex = 0;

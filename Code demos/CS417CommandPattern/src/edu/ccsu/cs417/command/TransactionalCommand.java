@@ -15,7 +15,7 @@ public class TransactionalCommand implements UndoableCommand {
   /**
    * List of commands that are part of this transaction
    */
-  private List<UndoableCommand> commandsInTransaction = new ArrayList();
+  private List<UndoableCommand> commandsInTransaction = new ArrayList<UndoableCommand>();
 
   public void addCommandToTransaction(UndoableCommand command) {
     commandsInTransaction.add(command);

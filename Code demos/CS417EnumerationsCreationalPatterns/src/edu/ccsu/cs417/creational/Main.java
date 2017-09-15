@@ -1,7 +1,5 @@
 package edu.ccsu.cs417.creational;
 
-import edu.ccsu.cs417.enumeration.Direction;
-
 /**
  * Demo of use of creational patterns
  */

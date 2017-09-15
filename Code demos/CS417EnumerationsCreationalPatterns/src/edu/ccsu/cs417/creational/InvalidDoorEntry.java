@@ -8,6 +8,6 @@ package edu.ccsu.cs417.creational;
  *
  * @author cw1491
  */
-public class InvalidDoorEntry extends Exception{
-
+public class InvalidDoorEntry extends Exception{	
+	private static final long serialVersionUID = 4098179966786857492L;
 }

@@ -58,10 +58,9 @@ public class ClassATest {
         System.out.println("operationA");
         double a = -.25;
         double b = 12.5;
-        double expResult = 0.0;
         ClassA instance = new ClassA();
         try{
-            double result = instance.operationA(a, b);
+            instance.operationA(a, b);
         }catch(NegAException nae){
             return;
         }catch(Exception e){
@@ -75,10 +74,9 @@ public class ClassATest {
         System.out.println("operationA");
         double a = 5.25;
         double b = 0;
-        double expResult = 0.0;
         ClassA instance = new ClassA();
         try{
-            double result = instance.operationA(a, b);
+            instance.operationA(a, b);
         }catch(BZeroException bze){
             return;
         }catch(Exception e){

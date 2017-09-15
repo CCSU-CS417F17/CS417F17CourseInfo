@@ -19,7 +19,31 @@ public class Person {
     this.jobTitle = builder.jobTitle;
   }
 
-  public static class PersonBuilder {
+  public String getFirst() {
+	return first;
+}
+
+public String getLast() {
+	return last;
+}
+
+public MaritalStatus getMaritalStatus() {
+	return maritalStatus;
+}
+
+public String getSignificantOtherName() {
+	return significantOtherName;
+}
+
+public Double getHeight() {
+	return height;
+}
+
+public String getJobTitle() {
+	return jobTitle;
+}
+
+public static class PersonBuilder {
     // required parameters
     private String first = null;
     private String last = null;

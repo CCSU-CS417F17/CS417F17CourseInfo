@@ -23,5 +23,6 @@ public class Main {
                      .setMaritialStatus(MaritalStatus.MARRIED)
                      .setSignificantOtherName("Jerry Rice")
                      .setJobTitle("Professor").buildPerson();
+    System.out.println(johnDoe.getFirst() + " " + janeDoe.getFirst());
   }
 }

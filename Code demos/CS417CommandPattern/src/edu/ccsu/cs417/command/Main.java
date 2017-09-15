@@ -22,7 +22,7 @@ public class Main {
 
   public Main() {
     this.calculator = new Calculator();
-    commandQueue = new ArrayList();
+    commandQueue = new ArrayList<UndoableCommand>();
     commandFactory = new CalculatorCommandFactory(calculator);
   }
 

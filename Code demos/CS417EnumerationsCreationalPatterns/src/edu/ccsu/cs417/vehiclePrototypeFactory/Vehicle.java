@@ -1,7 +1,5 @@
 package edu.ccsu.cs417.vehiclePrototypeFactory;
 
-import edu.ccsu.cs417.vehicleFactoryMethod.*;
-import edu.ccsu.cs417.vehicleAbstractFactory.*;
 import edu.ccsu.cs417.enumeration.Direction;
 
 /**

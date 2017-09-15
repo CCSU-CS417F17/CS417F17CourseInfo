@@ -12,7 +12,7 @@ public class NormalDoor implements Door{
   private Room side1;
   private Room side2;
 
-  public NormalDoor(Room side1, Room size2){
+  public NormalDoor(Room side1, Room side2){
     this.side1 = side1;
     this.side2 = side2;
   }

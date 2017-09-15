@@ -5,7 +5,6 @@
 package edu.ccsu.cs417.decorator;
 
 import edu.ccsu.cs417.composite.ComputerComponent;
-import edu.ccsu.cs417.composite.ComputerComposite;
 
 /**
  * Rather than returning the original price checks competitors

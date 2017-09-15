@@ -28,7 +28,7 @@ public enum Direction {
   }
 
   public static List<Direction> getPossibleDirections() {
-    List<Direction> directions = new ArrayList();
+    List<Direction> directions = new ArrayList<Direction>();
     directions.add(NORTH);
     directions.add(SOUTH);
     directions.add(EAST);

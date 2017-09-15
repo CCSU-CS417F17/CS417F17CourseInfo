@@ -1,9 +1,7 @@
 package edu.ccsu.cs417.visitor.vehicle;
 
 import java.util.ArrayList;
-import java.util.HashSet;
 import java.util.List;
-import java.util.Set;
 
 /**
  * This class implements the builder method of a single complex class.
@@ -13,7 +11,31 @@ public class MotorizedVehicle implements VehicleVisitable {
   private final String vehicleName;
   private final List<Seat> seats;
   private final List<Axel> axels;
-  private final List<Door> doors;
+  public List<Seat> getSeats() {
+    return seats;
+}
+
+public List<Axel> getAxels() {
+    return axels;
+}
+
+public List<Door> getDoors() {
+    return doors;
+}
+
+public Engine getEngine() {
+    return engine;
+}
+
+public Transmission getTransmission() {
+    return transmission;
+}
+
+public int getStorage() {
+    return storage;
+}
+
+private final List<Door> doors;
   private final Engine engine;
   private final Transmission transmission;
   private final int storage;

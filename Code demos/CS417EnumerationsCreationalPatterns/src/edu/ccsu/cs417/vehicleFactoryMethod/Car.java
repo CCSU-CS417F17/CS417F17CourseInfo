@@ -1,8 +1,5 @@
 package edu.ccsu.cs417.vehicleFactoryMethod;
 
-import edu.ccsu.cs417.vehicleAbstractFactory.*;
-import edu.ccsu.cs417.enumeration.Direction;
-
 /**
  * Concrete vehicle class
  */
@@ -19,7 +16,23 @@ public class Car extends VehicleBase{
     this.doors = doors;
   }
 
-  @Override
+  public BaseEngine getEngine() {
+	return engine;
+}
+
+public Transmission getTransmission() {
+	return transmission;
+}
+
+public int getSeats() {
+	return seats;
+}
+
+public int getDoors() {
+	return doors;
+}
+
+@Override
   public double getVehicleSoundLevel() {
     return engine.getEngineSound();
   }

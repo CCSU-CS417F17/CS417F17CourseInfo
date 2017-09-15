@@ -9,11 +9,18 @@ public class Main {
     Vehicle vehicle1 = vehicleFactory.makeVehicle("Small-normal");
     Vehicle vehicle2 = vehicleFactory.makeVehicle("Small-slow");
     Vehicle vehicle3 = vehicleFactory.makeVehicle("Huge");
-
+    
+    System.out.println(vehicle1.toString());
+    System.out.println(vehicle2.toString());
+    System.out.println(vehicle3.toString());
+    
     vehicleFactory = new FordFactory();
     vehicle1 = vehicleFactory.makeVehicle("Small-normal");
     vehicle2 = vehicleFactory.makeVehicle("Small-slow");
     vehicle3 = vehicleFactory.makeVehicle("Huge");
 
+    System.out.println(vehicle1.toString());
+    System.out.println(vehicle2.toString());
+    System.out.println(vehicle3.toString());
   }
 }
