@@ -4,8 +4,6 @@
  */
 package edu.ccsu.cs417.vehicleFactoryMethod;
 
-import edu.ccsu.cs417.vehicleAbstractFactory.*;
-
 /**
  *
  * @author cw1491

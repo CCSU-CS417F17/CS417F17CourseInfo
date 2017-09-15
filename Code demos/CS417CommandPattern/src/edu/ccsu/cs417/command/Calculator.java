@@ -11,7 +11,7 @@ public class Calculator {
 
   private double curValue;
   private double memoryValue;
-  private final List<UndoableCommand> calculatorHistory = new ArrayList();
+  private final List<UndoableCommand> calculatorHistory = new ArrayList<UndoableCommand>();
 
   public void addToHistory(UndoableCommand command) {
     this.calculatorHistory.add(command);

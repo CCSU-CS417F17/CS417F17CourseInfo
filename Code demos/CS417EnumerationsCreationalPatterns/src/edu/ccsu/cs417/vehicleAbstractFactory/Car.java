@@ -1,12 +1,26 @@
 package edu.ccsu.cs417.vehicleAbstractFactory;
 
-import edu.ccsu.cs417.enumeration.Direction;
-
 /**
  * Concrete vehicle class
  */
 public class Car extends VehicleBase{
-  private Engine engine;
+  public Engine getEngine() {
+		return engine;
+	}
+
+	public Transmission getTransmission() {
+		return transmission;
+	}
+
+	public int getSeats() {
+		return seats;
+	}
+
+	public int getDoors() {
+		return doors;
+	}
+
+private Engine engine;
   private Transmission transmission;
   private int seats;
   private int doors;

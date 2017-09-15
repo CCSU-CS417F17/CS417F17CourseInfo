@@ -31,7 +31,7 @@ public class Main {
     MotorizedVehicle harley = builder.build("Harley Davidson");
 
     builder = new MotorizedVehicle.MotorizedVehicleBuilder();
-    MotorVehicleDirector.build18Wheeler(builder, new HashSet());
+    MotorVehicleDirector.build18Wheeler(builder, new HashSet<VehicleEnhancement>());
     MotorizedVehicle truck = builder.build("18 Wheeler");
 
 

@@ -25,7 +25,6 @@ public class ClassBTest {
         System.out.println("operationB");
         double a = 6.25;
         double b = 12.5;
-        double expResult = 0.2;
         ClassB instance = new ClassB();
         instance.operationB(a, b);
     }

@@ -5,5 +5,5 @@ package edu.ccsu.cs417.exceptiondemo;
  * @author Chad Williams
  */
 public class BZeroException extends Exception{
-
+    private static final long serialVersionUID = -6584365451451687134L;
 }

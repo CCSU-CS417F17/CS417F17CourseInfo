@@ -4,8 +4,6 @@
  */
 package edu.ccsu.cs417.composite;
 
-import java.util.Iterator;
-
 /**
  * Obviously this class would need to have additional functionality
  * to justify actually being a class.

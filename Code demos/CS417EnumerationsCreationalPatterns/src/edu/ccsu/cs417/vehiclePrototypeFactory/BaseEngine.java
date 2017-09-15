@@ -1,7 +1,5 @@
 package edu.ccsu.cs417.vehiclePrototypeFactory;
 
-import edu.ccsu.cs417.vehicleFactoryMethod.*;
-
 /**
  * BaseEngine for a motorized vehicle
  */
