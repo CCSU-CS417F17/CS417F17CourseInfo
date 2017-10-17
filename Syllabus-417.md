@@ -2,7 +2,7 @@ _Central Connecticut State University_
 # CS 417 Design Patterns
 ## Fall 2017
 
-**Instructor:** Dr. Chad Williams, Professor of Computer Science
+**Instructor:** Dr. Chad Williams, Department of Computer Science
 
 **Office:** MS 303 Phone: 860-832-2719
 
