@@ -1,5 +1,7 @@
 package edu.ccsu.cs417.composite;
 
+import java.util.Iterator;
+
 /**
  * Demonstrate composite pattern
  */
@@ -21,5 +23,16 @@ public class Main {
     // What client would see
     double price = composite.getPriceTotal();
     System.out.println("Total price: "+price);
+    
+    System.out.println("Shallow iterator");
+    Iterator<ComputerComponent> iterator = composite.iterator();
+    while (iterator.hasNext()){
+        System.out.println(iterator.next());
+    }
+    System.out.println("Deep leaf iterator");
+    iterator = composite.deepLeafIterator();
+    while (iterator.hasNext()){
+        System.out.println(iterator.next());
+    }    
   }
 }
